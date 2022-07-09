@@ -1,0 +1,197 @@
+.Habi {
+  width: 40%;
+  height: 800px;
+  background: darkblue;
+  float: left;
+}
+
+.Info {
+  width: 60%;
+  height: 800px;
+  background: lightgray;
+  float: right;
+}
+
+.Info .Nppal {
+  color: black;
+  font-weight: bolder;
+  font-size: 45px;
+  width: 100%;
+  padding: 10px;
+  margin-top: -30px;
+}
+
+.Info .p1 {
+  color: darkblue;
+  font-weight: bolder;
+  font-size: 22px;
+  padding: 10px;
+  margin-top: -25px;
+}
+
+.Info .p2 {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+  margin-top: -25px;
+}
+
+.Info .InfoPer .BtnPer {
+  background: darkblue;
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.Info .InfoPer .border-radius {
+  border-radius: 100px;
+}
+
+.Info .InfoPer .BtnInfoPer {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Info .InfoEdu .BtnEdu {
+  background: darkblue;
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.Info .InfoEdu .border-radius {
+  border-radius: 100px;
+}
+
+.Info .InfoEdu .BtnEduA1 {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Info .InfoEdu .BtnEduA1Info {
+  color: black;
+  font-size: 15px;
+  float: right;
+  margin-top: -43px;
+}
+
+.Info .InfoEdu .BtnEduA2 {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Info .InfoEdu .BtnEduA2Info1 {
+  color: black;
+  font-size: 15px;
+  float: right;
+  margin-top: -67px;
+  padding: 29px;
+}
+
+.Info .InfoEdu .BtnEduA3 {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Info .InfoEdu .BtnEduA2Info3 {
+  color: black;
+  font-size: 15px;
+  float: right;
+  margin-top: -100px;
+  padding: 58px;
+}
+
+.Info .InfoExpe .BtnExpe {
+  background: darkblue;
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: -500px;
+}
+
+.Info .InfoExpe .border-radius {
+  border-radius: 100px;
+}
+
+.Info .InfoExpe .BtnExpe1 {
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Info .InfoExpe .BtnExpe1Info {
+  color: black;
+  font-size: 15px;
+  float: right;
+  margin-top: -132px;
+  padding: 70px;
+  align-items: right;
+}
+
+.Habi .foto img {
+  margin: 0 145px;
+}
+
+.Habi .InfoConta .p1 {
+  color: white;
+  text-align: center;
+}
+
+.Habi .InfoConta .p2 {
+  color: white;
+}
+
+.Habi .InfoConta .p3 {
+  color: white;
+}
+
+.Habi .InfoConta .p4 {
+  color: white;
+}
+
+.Habi .InfoHabi .p1 {
+  color: white;
+  text-align: center;
+}
+
+.Habi .InfoHabi .p2 {
+  color: white;
+}
+
+.Habi .InfoHabi .p3 {
+  color: white;
+}
+
+.Habi .InfoHabi .p4 {
+  color: white;
+}
+
+.Habi .InfoSoft .p1 {
+  color: white;
+  text-align: center;
+}
+
+.Habi .InfoSoft .p2 {
+  color: white;
+}
+
+.Habi .InfoSoft .p3 {
+  color: white;
+}
+
+.Habi .InfoSoft .p4 {
+  color: white;
+}
